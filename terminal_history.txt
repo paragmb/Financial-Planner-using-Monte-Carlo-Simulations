@@ -1,0 +1,24 @@
+    1  conda create -n dev python=3.9 anaconda
+    2  conda create -n dev python=3.7 anaconda
+    3  conda init bash
+    4  conda --version
+    5  conda init bash
+    6  conda create -n dev python=3.9 anaconda
+    7  conda activate dev
+    8  git clone https://github.com/paragmb/Module5Challenge.git
+    9  ls
+   10  cd Module5Challenge
+   11  git status
+   12  git add Images/ MCForecastTools.py SAMPLE.env financial_planning_tools.ipynb
+   13  git status
+   14  git commit -m "<Added the starter code files>"
+   15  git status
+   16  git push
+   17  jupyter lab --ContentsManager.allow_hidden=True .
+   18  git status
+   19  git add README.md financial_planning_tools.ipynb
+   20  git status
+   21  git commit -m "<Cryptocurrency Wallet added and updated README.md>"
+   22  git status
+   23  git push
+   24  history 50 > terminal_history.txt
