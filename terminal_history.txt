@@ -22,3 +22,24 @@
    22  git status
    23  git push
    24  history 50 > terminal_history.txt
+   25  git status
+   26  git add terminal_history.txt
+   27  git status
+   28  git commit -m "<Created terminal history>"
+   29  git status
+   30  git push
+   31  jupyter lab --ContentsManager.allow_hidden=True .
+   32  git status
+   33  git add financial_planning_tools.ipynb
+   34  git status
+   35  git commit -m "<Stocks and Bond holdings added>" 
+   36  git status
+   37  git status
+   38  jupyter lab --ContentsManager.allow_hidden=True .
+   39  git status
+   40  git add financial_planning_tools.ipynb
+   41  git status
+   42  git commit -m "<Stocks and Bond holdings added>" 
+   43  git status
+   44  git push
+   45  history 50 > terminal_history.txt
