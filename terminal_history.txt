@@ -9,7 +9,7 @@
     9  git status
    10  git add financial_planning_tools.ipynb
    11  git status
-   12  git commit -m "<Emergency evaluated. Part 1 complete>"
+   12  git commit -m "<Completed Part 2 -30 yr Forecast>"
    13  git status
    14  git push
    15  history 50 > terminal_history.txt
