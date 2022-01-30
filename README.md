@@ -11,3 +11,31 @@ A financial planner for retirement: This tool will forecast the performance of t
 ## Technologies
 
 This project leverages jupyterlab version 3.2.1.
+
+---
+
+## Usage
+
+Ensure the conda dev environment is activated.
+
+Using CLI, please launch the jupyter lab.
+
+Before using the notebook, user should have created their own .env file that stores the values of Alpaca API key and Alpaca secret key.
+
+Please open the financial_planning_tools.ipynb. Restart the kernel.
+
+Based on the Monte Carlo simulation results for 30-yr and 10-yr forecasts, answers to the questions have been provided in Part 2.
+
+
+
+---
+
+## Contributors
+
+Parag Borkar
+
+---
+
+## License
+
+PMB Inc.
